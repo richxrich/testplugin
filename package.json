@@ -1,3 +1,4 @@
+
 {
   "name": "cordova-plugin-toastyplugin",
   "version": "0.0.1",
@@ -26,7 +27,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Anon <no@no.com>",
+  "author": "anon anon <no@no.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/silversilver/testplugin/issues"
